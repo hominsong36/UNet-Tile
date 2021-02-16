@@ -1,5 +1,5 @@
 # Detecting subsurface drainage pipes using a fully convolutional network with optical images
-We provide our dataset and Keras implementation code for subsurface drainage pipe detection. Details can be found in our paper.
+We provide our dataset and Keras implementation code for subsurface drainage pipe detection. Details can be found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0378377421000561).
 
 ## Dataset
 Google Drive
